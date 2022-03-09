@@ -1,4 +1,4 @@
-:warning: Unfortunately, due to the new Instagram privacy policy this code doesn't work right. Good Luck
+:warning: Instagram's privacy policy has changed and this code does not work. Good Luck
 
 ## Downloading Instagram profile pciture
 
